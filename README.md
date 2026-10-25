@@ -215,3 +215,13 @@ GitHub: https://github.com/Lazaro549
 ## License
 
 This project is provided as a starter architecture and can be adapted to commercial or internal use depending on the deployment context.
+
+## 💸 Donations
+
+If you'd like to support this project:
+
+- 🇦🇷 ARS (Argentina)  
+  Alias: `lazaro.503.alaba.mp`
+
+- 🌎 USD (Argentina only, local transfers)  
+  Alias: `ahogada.duras.foca`
